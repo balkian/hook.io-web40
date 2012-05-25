@@ -3,7 +3,7 @@
   "name": "hook.io-web40",
   "description": "Basic hook for the web4.0 project",
   "keywords" : [ "hook", "hook.io" ],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "bugs" : { "url" : "http://github.com/balkian/hook.io-web40/issues" },
   "repository": {
     "type": "git",
