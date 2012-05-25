@@ -1,0 +1,6 @@
+tests
+configuration
+node_modules
+*.bak
+*.swp
+SOJA

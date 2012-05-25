@@ -1,0 +1,13 @@
+#!/usr/bin/env node
+require('coffee-script');
+var Hook = require('../lib/hook.io-web40').Web40Hook;
+
+var hook = new Hook({
+  name: "Web40Hook"
+});
+
+
+// Hook.start defaults to localhost
+// it can accept dnode constructor options ( for remote connections )
+// these hooks can be started on diffirent machines / networks / devices
+hook.connect();
